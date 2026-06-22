@@ -3,10 +3,14 @@ Seja bem-vindo ao meu repositório! Aqui eu guardo meus desafios que uso para tr
 
 # Desafios Resolvidos! 🐍
 
-*01_mapeando_indices.py: 
-  tópicos principais: len(), range(), for loop e índices de string. 
-  o que eu aprendi: aprendi a combinar len() e range() em um loop para percorrer através dos índices de uma string para encontrar caracteres específicos e colocá-los em uma lista. 
+## 01_mapeando_indices.py: 
+  ### *tópicos principais:  
+  len(), range(), for loop e índices de string. 
+  ### *o que eu aprendi:  
+  aprendi a combinar len() e range() em um loop para percorrer através dos índices de uma string para encontrar caracteres específicos e colocá-los em uma lista. 
 
-*02_interface_loja.py: 
-  tópicos princiapais: while, if/elif/else, operadores relacionais, input
-  o que eu aprendi: aprendi a utilizar WHILE para validar strings, além de ser usado para criar um menu. 
+## 02_interface_loja.py: 
+  ### tópicos princiapais: 
+  while, if/elif/else, operadores relacionais, input
+  ### o que eu aprendi: 
+  aprendi a utilizar WHILE para validar strings, além de ser usado para criar um menu. 
