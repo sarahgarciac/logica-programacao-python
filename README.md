@@ -4,9 +4,9 @@ Seja bem-vindo ao meu repositório! Aqui eu guardo meus desafios que uso para tr
 # Desafios Resolvidos! 🐍
 
 ## 01_mapeando_indices.py: 
-  ### *tópicos principais:  
+  ### tópicos principais:  
   len(), range(), for loop e índices de string. 
-  ### *o que eu aprendi:  
+  ### o que eu aprendi:  
   aprendi a combinar len() e range() em um loop para percorrer através dos índices de uma string para encontrar caracteres específicos e colocá-los em uma lista. 
 
 ## 02_interface_loja.py: 
