@@ -14,3 +14,9 @@ Seja bem-vindo ao meu repositório! Aqui eu guardo meus desafios que uso para tr
   while, if/elif/else, operadores relacionais, input
   ### o que eu aprendi: 
   aprendi a utilizar WHILE para validar strings, além de ser usado para criar um menu. 
+
+## 03_twosums.py: 
+   ### tópicos principais: 
+   for, variáveis, listas, if, índices
+   ### o que eu aprendi: 
+   aprendi a utilizar o FOR para iterar dentro de uma lista de números, descobrir quais números somados dão o número alvo e colocar seus índices em uma lista. 
